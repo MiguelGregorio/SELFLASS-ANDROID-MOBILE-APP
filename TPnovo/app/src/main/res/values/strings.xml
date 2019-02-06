@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Volunteer Self-Assessment</string>
+    <string name="tema1">VOLUNTEERING MOTIVATION</string>
+    <string name="tema2">VIOLENCE BELIEFS</string>
+    <string name="tema3">EMPOWERMENT SENSE</string>
+    <string name="tema4">AGGRESSIVE ATTITUDES</string>
+    <string name="tema5">PREFERENCE FOR GROUP WORK</string>
+    <string name="temaResults">RESULTS</string>
+    <string name="temaResultss">*RESULTS</string>
+    <string name="mediafinal">FINAL AVERAGE</string>
+    <string name="limpartudo">CLEAR ALL</string>
+    <string name="bSubmeter">Submit</string>
+    <string name="avg">(average)</string>
+    <string name="bReset">reset</string>
+    <string name="titulo">*AM I PREPARED TO BE A VOLUNTEER?</string>
+    <string name="r1">Clary, E. G., Snyder, M., Ridge, R. D., Copeland, J., Stukas, A. A., Haugen, J.,  Meine, P. (1998). Understanding and assessing the
+motivations of volunteers: A functional approach. Journal of Personality and Social Psychology, 74, 1516-1530.</string>
+    <string name="r2">Machado, C., Matos, M.,  Gonçalves, M. M. (2007). Manual da Escala de Crenças sobre a Violência Conjugal (E.C.V.C.) e do Inventário
+de Violência Conjugal (I.V.C.). Braga: Psiquilíbrios.</string>
+    <string name="r3">Rogers, E. S., Chamberlin, J., Ellison, M. L.,  Crean, T. (1997). A consumer-constructed scale to measure empowerment among
+users of mental health services. Psychiatric Services, 48(8), 1042–1047</string>
+    <string name="r4">BussA.  Perry, M. (1992). Theaggressionquestionnaire. JournalofPersonalityandSocial Psychology, 63(3), 452-459.</string>
+    <string name="r5">Shaw, J. D., Duffy, M. K.,  Stark, E. M. (2000). Interdependence and preference for group work: Main and congruent effects on the satisfaction and performance of group members. Journal of Management,26, 259-279.</string>
+</resources>
